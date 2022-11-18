@@ -12,8 +12,8 @@ This Guided Project mainly focuses on applying Neural Networks to predict the Cr
 
 # Contributors of this project:
 
-**Team Leader** - Rethika Ramesh
-**Team Member** - S.K.Suriya Prakash
-**Team Member** - Narain Srinivas
-**Team Member** - Vawnika
+| **Team Leader** - Rethika Ramesh |
+**Team Member** - S.K.Suriya Prakash |
+**Team Member** - Narain Srinivas |
+**Team Member** - Vawnika |
 
